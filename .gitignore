@@ -1,11 +1,16 @@
+Source/**/bin
+Source/**/obj
+Source/**/packages
+.idea
+.vs
+.vscode
+*.csproj.user
 
 RimworldModReleaseTool.exe
-Source/.idea/.idea.Hobbits/.idea/workspace.xml
-Source/.idea/.idea.Hobbits/.idea/workspace.xml
 About/PublishedFileId.txt
-Source/.idea/.idea.Hobbits/.idea/workspace.xml
-Source/Hobbits/obj/Debug/Hobbits.dll
+Source/DiscordWebhookToken.txt
 updateinfo
+
 
 # Prevents node or other packages.
 
