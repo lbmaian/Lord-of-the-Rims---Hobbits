@@ -14,6 +14,7 @@
       <Flammability>1.0</Flammability>
     </statBases>
     <size>(1,1)</size>
+    <rotatable>false</rotatable>
     <building>
       <isInert>true</isInert>
       <canPlaceOverWall>true</canPlaceOverWall>
@@ -43,8 +44,9 @@
     <designationHotKey>Misc2</designationHotKey>
     <tempLeakRate>100</tempLeakRate>
     <doorType>FreePassage</doorType>
+    <blockLight>false</blockLight>
+    <fillPercent>0</fillPercent>
     <singleDoor>true</singleDoor>
-    <doorOpenSpeedRate>0.24</doorOpenSpeedRate>
     <researchPrerequisites>
       <li>LotRH_StructuresTwo</li>
     </researchPrerequisites>
@@ -61,6 +63,7 @@
       <Flammability>1.0</Flammability>
     </statBases>
     <size>(1,1)</size>
+    <rotatable>false</rotatable>
     <building>
       <isInert>true</isInert>
       <canPlaceOverWall>true</canPlaceOverWall>
@@ -88,8 +91,8 @@
     <designationHotKey>Misc2</designationHotKey>
     <tempLeakRate>60</tempLeakRate>
     <doorType>Stretch</doorType>
+    <stretchCloseSize>(1,1)</stretchCloseSize>
     <singleDoor>true</singleDoor>
-    <doorOpenSpeedRate>0.24</doorOpenSpeedRate>
     <researchPrerequisites>
       <li>LotRH_StructuresTwo</li>
     </researchPrerequisites>
